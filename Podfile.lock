@@ -1,0 +1,16 @@
+PODS:
+  - HHYCTMediator (0.0.3)
+
+DEPENDENCIES:
+  - HHYCTMediator (~> 0.0.3)
+
+SPEC REPOS:
+  https://github.com/HuiYouHua/HHYSpecs.git:
+    - HHYCTMediator
+
+SPEC CHECKSUMS:
+  HHYCTMediator: 69f192a8af8bf473dd4b837f2c87051a5ce545c2
+
+PODFILE CHECKSUM: 68ad7f35c927a836d197f49dd8fabfa924c59243
+
+COCOAPODS: 1.5.3
